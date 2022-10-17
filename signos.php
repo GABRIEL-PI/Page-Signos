@@ -36,7 +36,7 @@
             </div>
             <div class="col">
                 <div class="d-grid gap-2 col-6 mx-auto">
-                    <a class="btn btn-primary" href="./index.html">Voltar</a>
+                    <a class="btn btn-primary" href="./index.php">Voltar</a>
                 </div>
             </div>
         </div>
